@@ -25,3 +25,11 @@
 16. What is the average (mean) wage of all employees? What about the median (extra credit)?
 17. Are there any duplicate entries? (Same names appearing on payroll more than once)
 18. Who was the first employee hired?
+
+
+
+***You can run solutions with:***
+
+```
+awk -f <file>.awk payroll.tsv
+```
